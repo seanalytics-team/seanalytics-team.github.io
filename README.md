@@ -1,1 +1,3 @@
-# seanalytics-team.github.io
+# Seanalytics website
+
+Our main website with news and products
