@@ -1,3 +1,7 @@
-# Seanalytics website
+# Seanalytics Website
 
-Our main website with news and products
+## It was built using React.js
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
